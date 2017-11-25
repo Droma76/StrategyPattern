@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "targets": {
     ".NETStandard,Version=v1.4": {
       "Microsoft.NETCore.Platforms/1.1.0": {
@@ -3707,15 +3707,27 @@
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "c:\\users\\droma\\onedrive\\documents\\visual studio 2017\\Projects\\Patterns\\Strategy\\Strategy\\Strategy.csproj",
+      "projectUniqueName": "C:\\Users\\droma\\OneDrive\\documents\\visual studio 2017\\Projects\\Patterns\\Strategy\\Strategy\\Strategy.csproj",
       "projectName": "Strategy",
-      "projectPath": "c:\\users\\droma\\onedrive\\documents\\visual studio 2017\\Projects\\Patterns\\Strategy\\Strategy\\Strategy.csproj",
-      "outputPath": "c:\\users\\droma\\onedrive\\documents\\visual studio 2017\\Projects\\Patterns\\Strategy\\Strategy\\obj\\",
+      "projectPath": "C:\\Users\\droma\\OneDrive\\documents\\visual studio 2017\\Projects\\Patterns\\Strategy\\Strategy\\Strategy.csproj",
+      "packagesPath": "C:\\Users\\droma\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\droma\\OneDrive\\documents\\visual studio 2017\\Projects\\Patterns\\Strategy\\Strategy\\obj\\",
       "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\droma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
       "originalTargetFrameworks": [
         "netstandard1.4"
       ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
       "frameworks": {
         "netstandard1.4": {
           "projectReferences": {}

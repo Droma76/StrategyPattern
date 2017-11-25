@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Strategy
 {
@@ -47,47 +48,5 @@ namespace Strategy
             }
             return sortingStrategy;
         }
-    }
-
-    public enum ObjectToSort
-    {
-        StudentNumber,
-        RailwayPassengers,
-        CountyResidents
-    }
-
-    public interface ISortingStrategy
-    {
-        void Sort<T>(List<T> dataToBeSorted);
-    }
-
-    public class QuickSort : ISortingStrategy
-    {
-        #region ISortingStrategy Members
-        public void Sort<T>(List<T> dataToBeSorted)
-        {
-            //Logic for quick sort
-        }
-        #endregion
-    }
-
-    public class MergeSort : ISortingStrategy
-    {
-        #region ISortingStrategy Members
-        public void Sort<T>(List<T> dataToBeSorted)
-        {
-            //Logic for Merge sort
-        }
-        #endregion
-    }
-
-    public class HeapSort : ISortingStrategy
-    {
-        #region ISortingStrategy Members
-        public void Sort<T>(List<T> dataToBeSorted)
-        {
-            //Logic for Heap sort
-        }
-        #endregion
     }
 }
