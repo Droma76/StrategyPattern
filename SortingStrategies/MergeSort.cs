@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using Strategy.SortingStrategies;
 
-namespace Strategy
+namespace Strategy.SortingStrategies
 {
     public class MergeSort : ISortingStrategy
     {

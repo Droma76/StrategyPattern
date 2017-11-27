@@ -6,3 +6,12 @@ C:\Users\droma\OneDrive\documents\visual studio 2017\Projects\Patterns\Strategy\
 C:\Users\droma\OneDrive\documents\visual studio 2017\Projects\Patterns\Strategy\Strategy\bin\Debug\netstandard1.4\Strategy.pdb
 C:\Users\droma\OneDrive\documents\visual studio 2017\Projects\Patterns\Strategy\Strategy\obj\Debug\netstandard1.4\Strategy.dll
 C:\Users\droma\OneDrive\documents\visual studio 2017\Projects\Patterns\Strategy\Strategy\obj\Debug\netstandard1.4\Strategy.pdb
+C:\Source\Personal\Patterns\StrategyPattern\bin\Debug\netstandard1.4\Strategy.deps.json
+C:\Source\Personal\Patterns\StrategyPattern\bin\Debug\netstandard1.4\Strategy.dll
+C:\Source\Personal\Patterns\StrategyPattern\bin\Debug\netstandard1.4\Strategy.pdb
+C:\Source\Personal\Patterns\StrategyPattern\obj\Debug\netstandard1.4\Strategy.csprojResolveAssemblyReference.cache
+C:\Source\Personal\Patterns\StrategyPattern\obj\Debug\netstandard1.4\Strategy.csproj.CoreCompileInputs.cache
+C:\Source\Personal\Patterns\StrategyPattern\obj\Debug\netstandard1.4\Strategy.AssemblyInfoInputs.cache
+C:\Source\Personal\Patterns\StrategyPattern\obj\Debug\netstandard1.4\Strategy.AssemblyInfo.cs
+C:\Source\Personal\Patterns\StrategyPattern\obj\Debug\netstandard1.4\Strategy.dll
+C:\Source\Personal\Patterns\StrategyPattern\obj\Debug\netstandard1.4\Strategy.pdb
